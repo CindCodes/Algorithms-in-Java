@@ -1,0 +1,2 @@
+/* A Java program that implements Divide and Conquer algorthim to sort an array to correctly guess the user's selected element. The program will allow the user to think of a number and that becomes the size of the array. After each guess, the program prompts the user to state whether the program's guess was higher, lower, or correct to the user. If the program's guess is correct, the game will end; however, the program will run until the guess is correct. 
+*/
